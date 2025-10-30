@@ -39,7 +39,7 @@ The idea is to reduce “range anxiety” and make EV travel planning smarter an
 
 | File | Description |
 |------|--------------|
-| `Week2_EV_Project.ipynb` | Main notebook (contains dataset loading, map, and AI route generation). |
+| `EV.ipynb` | Main notebook (contains dataset loading, map, and AI route generation). |
 | `ev-charging-stations-india.csv` | Dataset of EV charging stations across India. |
 
 ---
